@@ -12,9 +12,9 @@ def MinCut(g,v,vertexSet):
         Merge(a,b,g,v,vertexSet)
     
 def Merge(a,b,g,v,vertexSet):
-    g[a-1] = g[a-1]+g[b-1]
-    vertexSet[a-1] = set.union(vertexSet[a-1],vertexSet[b-1])
-    v.remove(b)
+    g[a-1] = g[a-1]+g[b-1] // update the graph, just add the adjacent lists together
+    vertexSet[a-1] = set.union(vertexSet[a-1],vertexSet[b-1]) // update the vertexSet, which shows the the vertexes that current vertex actually represents.
+    v.remove(b) // v is the set of the vertices that remains, every time we use random sample from v to get the 2 vertices that we are going to merge.
 
 if __name__ == "__main__":
     best = 10000  
