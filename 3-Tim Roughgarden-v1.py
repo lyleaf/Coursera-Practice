@@ -1,3 +1,10 @@
+"""
+Compute the Minimun cut in a graph.
+Used random and probability.
+
+Didn't work because in the Merge step I merged the vertex that are not adjacent. Should have a condition check.
+"""
+
 import random
 
 def read():
