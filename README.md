@@ -1,6 +1,5 @@
-# python
 
-Learning scripts about Python, Algorithms, Data Structures
+#Learning scripts about Python, Algorithms, Data Structures
 
 =====================
 Python Class Design 
