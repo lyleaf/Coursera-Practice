@@ -1,10 +1,12 @@
 # python
 
 Learning scripts about Python, Algorithms, Data Structures
+
 =====================
 Python Class Design 
 
 https://speakerdeck.com/pyconslides/pythons-class-development-toolkit-by-raymond-hettinger
+
 =====================
 
 Algorithms: Design and Analysis, Part 1
