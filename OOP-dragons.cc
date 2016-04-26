@@ -200,4 +200,4 @@ int main()
   hydre.afficher();
 
   return 0;
-}d
+}
