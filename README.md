@@ -15,3 +15,9 @@ by Tim Roughgarden
 Merge Sort, Quick Sort, Min Cut, DFS, Strongly Connected Component, Dijkstra Shortest Path
 
 Heap, Binary Search Tree
+
+======================
+
+Introduction à la programmation orientée objet (en C++) OOP
+
+École Polytechnique Fédérale de Lausanne
